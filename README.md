@@ -1,51 +1,27 @@
-﻿# Desafio: Batalha Naval em C
+﻿# Desafio: Batalha Naval Em C
 
-ImplementaÃ§Ã£o do jogo Batalha Naval em linguagem C com interface de console.
+Desafio de lÃ³gica em Python desenvolvido durante meus estudos em AnÃ¡lise e Desenvolvimento de Sistemas (ADS).
 
 ## ðŸŽ¯ DescriÃ§Ã£o
 
-SimulaÃ§Ã£o do clÃ¡ssico jogo Batalha Naval onde dois jogadores ou jogador vs computador competem posicionando navios e tentando hundir os navios adversÃ¡rios.
+ExercÃ­cio prÃ¡tico que implementa algoritmos para manipulaÃ§Ã£o de dados e estruturas em Python.
 
 ## ðŸ› ï¸ Tecnologias Utilizadas
 
-- **C** - Linguagem de programaÃ§Ã£o
-- **Console** - Interface de texto
+- **Python 3** - Linguagem de programaÃ§Ã£o
 
-## ðŸ“¦ CompilaÃ§Ã£o
-
-`ash
-# Compilar o programa
-gcc -o batalha_naval batalha_naval.c
-
-# Compilar com flags de otimizaÃ§Ã£o
-gcc -O2 -o batalha_naval batalha_naval.c
-`
-
-## ðŸš€ ExecuÃ§Ã£o
+## ðŸš€ Como Executar
 
 `ash
-# Executar o jogo
-./batalha_naval
-
-# No Windows
-batalha_naval.exe
+python Desafio-Batalha-Naval-em-C.py
 `
 
 ## ðŸ“‹ Funcionalidades
 
-- CriaÃ§Ã£o de tabuleiros 10x10
-- Posicionamento de navios
-- Sistema de coordenadas (linhas e colunas)
-- Registro de tiros
-- DetecÃ§Ã£o de acertos e desacertos
-- Jogo vs Computador com IA
-
-## ðŸ’¡ Como Jogar
-
-`
-Posicione seus navios no tabuleiro
-Digite as coordenadas para atacar: A5
-Resultado: Acertou!
-`
+- ImplementaÃ§Ã£o do algoritmo solicitado
+- Entrada e processamento de dados
+- SaÃ­da formatada dos resultados
 
 ---
+
+*Desenvolvido por EmÃ­lia - Estudante de ADS*
